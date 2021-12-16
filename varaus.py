@@ -40,12 +40,4 @@ def lisaa_naytos():
 
     tallenna_naytos_listaan(elokuva, kesto, sali, pvm, klo)
 
-
-
-
-
-    
-
-
-
-
+naytokset = lataa_tiedosto()
